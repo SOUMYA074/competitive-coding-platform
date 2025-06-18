@@ -24,7 +24,7 @@ A web-based platform that allows users to solve coding problems in real time, su
 | Frontend       | HTML, CSS, JavaScript          |
 | Backend        | PHP / Python |
 | Database       | MySQL                          |
-| Compiler API   | [Judge0](https://judge0.com/) |
+| Compiler API   | [Judge0](https://judge0.com/) / it have daily limit of 50 uploads due to free api|
 | Hosting        | XAMPP / Localhost (dev)        |
 
 ---
@@ -34,23 +34,30 @@ A web-based platform that allows users to solve coding problems in real time, su
 ### 🧑 User Interface
 
 #### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homepage.png)
 
 #### 💻 Code Editor
-![Code Editor](screenshots/editor.png)
+![Code Editor](screenshots/compiler1.png)
+![Code Editor](screenshots/compiler2.png)
 
-#### ✅ Submission Result
-![Submission Result](screenshots/submission_result.png)
+#### ✅ Login and SignUp
+![Submission Result](screenshots/login.png)
+![Submission Result](screenshots/signup.png)
 
+#### LeaderBoard
+![leaderboard](screenshots/leaderboard.png)
+
+#### ProfilePage
+![ProfileCard](screenshots/profilepage.png)
 ---
 
 ### 🛠️ Admin Panel
 
 #### 📋 Problem Management
-![Admin Problem Panel](screenshots/admin_panel.png)
+![Admin Problem Panel](screenshots/adminpage.png)
 
 
-> 📁 Place your screenshots in a `/screenshots` folder inside the repo.
+> 📁 Placed screenshots in a `/screenshots` folder inside the repo.
 
 ---
 📫 Contact
